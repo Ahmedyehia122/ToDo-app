@@ -1,16 +1,39 @@
-# to_o_app
+ # 😊  To-Do app
 
-A new Flutter project.
+ To-Do tasks app Using Hive for local data storage
+ 
 
-## Getting Started
+ ## 🚀 Getting Started
 
-This project is a starting point for a Flutter application.
+ ## 🏖️ Screenshots 
+ 
+ <div>
+   <img src ="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/b557f3ab-46d8-4d3e-b04e-01f74dc739fa" width="200" >
+   <img src ="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/99637f58-2a17-4c82-9e34-86f415f5ba90" width="200" >
+   <img src ="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/b8be1473-d1de-4a60-a43f-695772059e5c" width="200" >
+ </div>
 
-A few resources to get you started if this is your first Flutter project:
+ 
+ <div>
+    <img src ="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/7128a91f-cf2d-4163-84ad-11c28afa2120" width="200" >
+   <img src ="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/629964ab-de69-4615-9f8f-e353371b74e8" width="200" >
+  </div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ ## 🛠 Dependencies
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+ #### flutter_slidable: ^3.0.0
+ #### hive: ^2.2.3
+ #### hive_flutter: ^1.1.0
+  
+  
+
+
+
+
+ 
+
+
+
+ 
+ 
