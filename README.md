@@ -28,11 +28,16 @@
 
 
  #### flutter_slidable: ^3.0.0
- #### hive: ^2.2.3
- #### hive_flutter: ^1.1.0
-  
-  
+   [flutter_slidable](https://pub.dev/packages/flutter_slidable) - A Flutter implementation of slidable list item with directional slide actions that can be dismissed.
 
+ #### hive: ^2.2.3
+   [hive](https://pub.dev/packages/hive) - Hive is a lightweight and blazing fast key-value database written in pure Dart. Inspired by Bitcask.
+
+ #### hive_flutter: ^1.1.0
+   [hive_flutter](https://pub.dev/packages/hive_flutter/versions) -  Hive is a lightweight and blazing fast key-value database written in pure Dart. Inspired by Bitcask.
+  
+  
+# 🌸🌸 Thank You For Your Time 🌸🌸
 
 
 
