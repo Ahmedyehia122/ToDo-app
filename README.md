@@ -1,6 +1,8 @@
  # 😊  To-Do app
 
  To-Do tasks app Using Hive for local data storage
+
+ <br/>
  
 
  ## 🚀 Getting Started
@@ -9,6 +11,8 @@
  
 <video src="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/f39babbd-3719-463b-86d7-98ba2667451a
 "></video>
+
+<br/>
 
  ## 🏖️ Screenshots 
  
@@ -24,6 +28,8 @@
    <img src ="https://github.com/Ahmedyehia122/NewsReader/assets/142153775/629964ab-de69-4615-9f8f-e353371b74e8" width="200" >
   </div>
 
+  <br/>
+
  ## 🛠 Dependencies
 
 
@@ -35,6 +41,29 @@
 
  #### hive_flutter: ^1.1.0
    [hive_flutter](https://pub.dev/packages/hive_flutter/versions) -  Hive is a lightweight and blazing fast key-value database written in pure Dart. Inspired by Bitcask.
+
+<br/>
+
+   ## 🖊️ Contributing
+
+- Contributions are welcome 💜
+- If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+  <br/>
+  
+ ## 🤝Contact With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedyehia122/) 
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](https://www.ahmedyehia.122a@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100033167761298)
+
+<br/>
+
+## 💖 Support
+
+- If you find this tutorial useful or learned something from this code, consider showing some ❤️ by starring this repo.
+  
+  <br/>
   
   
 # 🌸🌸 Thank You For Your Time 🌸🌸
