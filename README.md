@@ -6,6 +6,10 @@
  
 
  ## 🚀 Getting Started
+ 
+ <img src ="https://github.com/Ahmedyehia122/ToDo-app/assets/142153775/18437d7e-2df9-4669-af1a-4196608d7df9"   >
+ 
+ <br/>
 
   ## 📸 Screen Record
  
@@ -54,8 +58,7 @@
  ## 🤝Contact With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedyehia122/) 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](https://www.ahmedyehia.122a@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100033167761298)
+ 
 
 <br/>
 
